@@ -1,4 +1,4 @@
-# Automated-Attendance-Tracking-Syatem
+# Automated-Attendance-Tracking-System
 STM32-based Attendance System
 
 • Developed an automated attendance system using STM32 and FreeRTOS, integrating PIR-based motion detection and RFID authentication for efficient entry/exit logging.
